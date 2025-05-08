@@ -1,12 +1,14 @@
-# NeatLearn
+# neatLearn
 
-## What is NeatLearn?
+## What is neatLearn?
 
-### NeatLearn is a educational tool for people to learn technical interview questions on the go.
+### neatLearn is a educational tool for people to learn technical interview questions on the go.
 
-## What languages are NeatLearn taught in?
+## How is neatLearn created?
 
-### NeatLearn teaches in Java only for now.
+### neatLearn uses the MERN stack. (MongoDB, Express, ReactJS, NodeJS), neatLearn will also soon come with a React Native version for mobile versions.
+### Frontend: React, Firebase
+### Backend: Node.js, Express.js, MongoDB, Mongoose, Heroku
 
 ## What inspired me to create this tool?
 
