@@ -1,12 +1,12 @@
-# neatLearn
+# popVid
 
-## What is neatLearn?
+## What is popVid?
 
-### neatLearn is a educational tool for people to learn technical interview questions on the go.
+### popVid is a educational tool for people to learn technical interview questions on the go.
 
-## How is neatLearn created?
+## How is popVid created?
 
-### neatLearn uses the MERN stack. (MongoDB, Express, ReactJS, NodeJS), neatLearn will also soon come with a React Native version for mobile versions.
+### popVid uses the MERN stack. (MongoDB, Express, ReactJS, NodeJS), popVid will also soon come with a React Native version for mobile versions.
 ### Frontend: React, Firebase
 ### Backend: Node.js, Express.js, MongoDB, Mongoose, Heroku
 
