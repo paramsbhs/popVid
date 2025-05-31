@@ -5,15 +5,15 @@ import Videos from './dbModel.js'
 
 //app config
 const app = express();
-const port = 9000;
+const port = process.env.PORT || 9000;
 
 // middlewares
-app.use(express.json())
-app.use((res, res, next)=>{
-    res.setHeaders('Access-Control-Allow-Origin', '*'),
-    res.setHeaders('Access-Control-Allow-Headers', '*'),
+app.use(express.json());
+app.use((req, res, next)=>{
+    res.setHeader('Access-Control-Allow-Origin', '*'),
+    res.setHeader('Access-Control-Allow-Headers', '*'),
     next()
-})
+});
 // db config
 const connection_url = "mongodb+srv://paramsbhs2:Grewal123@popvid.culuc1m.mongodb.net/?retryWrites=true&w=majority&appName=popVid";
 
