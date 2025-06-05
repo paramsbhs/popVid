@@ -3,10 +3,16 @@
 ## What is popVid?
 
 ### popVid is a educational tool for people to learn technical interview questions on the go.
+<img src="https://github.com/user-attachments/assets/744b1995-84a1-4223-8411-f69d8c727e3f" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/02c3fc52-edcb-4652-abd5-6d4d095585e8" width=40% height=40%>
+
+
+
+
 
 ## How is popVid created?
 
-### popVid uses the MERN stack. (MongoDB, Express, ReactJS, NodeJS), popVid will also soon come with a React Native version for mobile versions.
+### popVid uses the MERN stack. (MongoDB, Express, ReactJS, NodeJS), I upload videos on a CDN server to get a link, which I can then send a POST request to MongoDB. popVid will also soon come with a React Native version for mobile versions.
 ### Frontend: React, Firebase
 ### Backend: Node.js, Express.js, MongoDB, Mongoose, Heroku
 
